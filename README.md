@@ -8,15 +8,27 @@ My name is Hanna Boroń. I am a Master of Biotechnology and Forensic Biology in 
 * [Instagram] (https://www.instagram.com/just.software.testing/)
 
 ## Tools I am familiar with
+* Jira
+* Trello
+* Postman
+* TestLink
 
 ## Courses and certificates
+* Practical Software Testing Course (Udemy, 2022)
+* Software Testing Workshops with Maja Malinowska (online, 2022)
 
 ## Technical skills
+* SQL basics
+* API testing basics
+* GIT basics
+* OS: Windows, Android
 
 ## Groups for knowledge gathering
 
 ## Blogs red
 
 ## Technical books red
+* Zawód tester - R. Smilgin
+* Praktyka testowania - R. Smilgin (in progress)
 
 ## My projects
