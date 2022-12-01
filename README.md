@@ -6,6 +6,7 @@ My name is Hanna Boroń. I am a Master of Biotechnology and Forensic Biology in 
 ## Contact me
 * hanna.boron87@gmail.com
 * [Instagram] (https://www.instagram.com/just.software.testing/)
+* [LinkedIn] (www.linkedin.com/in/hanna-boron)
 
 ## Tools I am familiar with
 * Jira
